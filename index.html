@@ -14,7 +14,12 @@
 	  gtag('js', new Date());
 	  gtag('config', 'UA-126621302-2');
 	</script>
-    <!-- Bootstrap CSS -->
+
+	<!-- CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>	
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/slick-theme.css">
     <link rel="stylesheet" href="css/slick.css">
@@ -75,7 +80,7 @@
                 <div class="container">
                   <h1>Senior Living. Redefined.</h1>
                   <p>Aspen Creek is changing what Senior Living means for Alaskans. Assisted Living at Aspen Creek Senior Living is not only about compassionate care and healthy lifestyles, it is about community.</p>
-                  <a href="contact.html" class="btn btn-primary black-hero">Schedule a tour</a>
+				  <a class="btn btn-primary black-hero" data-toggle="modal" data-target="#contactForm">Schedule a tour</a>
                 </div>
               </div>
             </div>
@@ -229,6 +234,57 @@
 	<!-- End Podium Script -->	
 <!-- LITY-->	
 <script src="vendor/jquery.js"></script>
-<script src="dist/lity.js"></script>		
+<script src="dist/lity.js"></script>	
+
+
+
+<!-- Application Form Modal -->
+  <div class="modal fade" id="applyNow">
+    <div class="modal-dialog modal-xl">
+      <div class="modal-content">
+        <!-- Modal Header -->
+        <div class="modal-header">
+          <h4 class="modal-title">New Resident Application</h4>
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        <!-- Modal body -->
+        <div class="modal-body">
+<iframe src="https://forms.monday.com/forms/embed/062d7b503dcc563eff328bb388238b82" width="100%" height="600" style="border: 0; box-shadow: 5px 5px 56px 0px rgba(0,0,0,0.25);"></iframe>		
+        </div>   
+        <!-- Modal footer
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        </div> -->
+        
+      </div>
+    </div>
+  </div>
+
+
+<!-- Contact Form Modal -->
+  <div class="modal fade" id="contactForm">
+    <div class="modal-dialog modal-xl">
+      <div class="modal-content">
+        <!-- Modal Header -->
+        <div class="modal-header">
+          <h4 class="modal-title">Contact us</h4>
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        <!-- Modal body -->
+		
+        <div class="modal-body">
+		<iframe src="https://forms.monday.com/forms/embed/3b010bd6e04089d7066b6ef6337fbdb3" width="100%" height="600" style="border: 0; box-shadow: 5px 5px 56px 0px rgba(0,0,0,0.25);"></iframe>
+		</div> 
+		
+        <!-- Modal footer
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        </div> -->
+        
+      </div>
+    </div>
+  </div>
+
+  
 </body>
 </html>
