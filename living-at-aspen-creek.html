@@ -45,7 +45,7 @@
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item ">
                             <a class="nav-link" href="index.html"><img src="images/home.png" alt="home-menu"></a>
@@ -63,7 +63,7 @@
                             <a class="nav-link" href="blog.html">BLOG</a>
                         </li>
  -->                        <li class="nav-item">
-                            <a class="nav-link" href="#contactForm" data-toggle="modal">CONTACT US</a>
+                            <a class="nav-link" href="contact.html">CONTACT US</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="https://forms.monday.com/forms/062d7b503dcc563eff328bb388238b82">APPLY NOW</a>
@@ -80,11 +80,12 @@
     <section class="banner_title_parallax  ">
       <div class="container">
         <div class="full-width guidedtour bg_experience align-items-center d-flex has-text-centered">
-          <h1 class="white_shadow">Legacies are shared.<br>Time is valued. <br><a class="btn btn-primary black-hero" data-toggle="modal" data-target="#applyNow">Apply now</a></h1> 
+          <h1 class="white_shadow">Legacies are shared.<br>Time is valued. <br><a class="btn btn-primary black-hero" href="apply.html">Apply now</a></h1> 
         </div>
 		  
       </div>
     </section>
+	
     <section class="section standards_area pt-4">
     	<div class="container">
     		<div class="row">
@@ -303,7 +304,7 @@
                     </div>
                   </div>
               </div>
-              <div class="col-12 col-lg-6 col-sm-6">
+              <div class="col-12 col-md-6 col-sm-6">
                 <div class="row text-right">
 <!--                   <div class="col-md-4">
                     <h4><a href="about.html">ABOUT US</a></h4>
@@ -314,12 +315,12 @@
                   </div>
                   <div class="col-md-2">
                     <h4><a href="faq.html">FAQ</a></h4>
+                  </div>  -->  
+                  <div class="col-md-4">
+                    <h4><a href="apply.html">APPLY NOW</a></h4>
                   </div>
-                  <div class="col-md-2">
-                    <h4><a href="blog.html">BLOG</a></h4>
-                  </div>
- -->                  <div class="col-md-4">
-                    <h4><a href="#contactForm" data-toggle="modal">CONTACT US</a></h4>
+                   <div class="col-md-4">
+                    <h4><a href="contact.html">CONTACT US</a></h4>
                   </div>
                 </div>
               </div>
@@ -349,54 +350,6 @@
 	<!-- LITY-->	
 	<script src="vendor/jquery.js"></script>
 	<script src="dist/lity.js"></script>	
-
-
-<!-- Application Form Modal -->
-  <div class="modal fade" id="applyNow">
-    <div class="modal-dialog modal-xl">
-      <div class="modal-content">
-        <!-- Modal Header -->
-        <div class="modal-header">
-          <h4 class="modal-title">New Resident Application</h4>
-          <button type="button" class="close" data-dismiss="modal">&times;</button>
-        </div>
-        <!-- Modal body -->
-        <div class="modal-body">
-<iframe src="https://forms.monday.com/forms/embed/062d7b503dcc563eff328bb388238b82" width="100%" height="600" style="border: 0; box-shadow: 5px 5px 56px 0px rgba(0,0,0,0.25);"></iframe>		
-        </div>   
-        <!-- Modal footer
-        <div class="modal-footer">
-          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        </div> -->
-        
-      </div>
-    </div>
-  </div>
-
-
-<!-- Contact Form Modal -->
-  <div class="modal fade" id="contactForm">
-    <div class="modal-dialog modal-xl">
-      <div class="modal-content">
-        <!-- Modal Header -->
-        <div class="modal-header">
-          <h4 class="modal-title">Contact us</h4>
-          <button type="button" class="close" data-dismiss="modal">&times;</button>
-        </div>
-        <!-- Modal body -->
-		
-        <div class="modal-body">
-		<iframe src="https://forms.monday.com/forms/embed/3b010bd6e04089d7066b6ef6337fbdb3" width="100%" height="600" style="border: 0; box-shadow: 5px 5px 56px 0px rgba(0,0,0,0.25);"></iframe>
-		</div> 
-		
-        <!-- Modal footer
-        <div class="modal-footer">
-          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        </div> -->
-        
-      </div>
-    </div>
-  </div>
 	
 </body>
 </html>
