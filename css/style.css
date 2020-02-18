@@ -102,16 +102,15 @@ h1 {
 .black-hero.btn {
 	font-family: 'Helvetica Neue';
 	background: #000;
-	font-size: 28px;
+	font-size: 24px;
 	font-weight: 900;	
 	color: #fff;
 	text-transform: uppercase;
 	width: 500px;
 	max-width: 100%;
 	text-align: center;
-	border-radius: 0;
-	background-color: #000;
-    border-color: #000;		
+	border-radius: 4px;
+	background-color: #4b75df;
 }
 
 .section{
