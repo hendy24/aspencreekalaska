@@ -32,7 +32,7 @@
                       </div>
                     </div>
                     <div class="live ml-auto text-center ml-xs-0">
-                      <h4><a href="living-at-aspen-creek.html">LIVING AT<br>ASPEN CREEK</a></h4>
+                      <h4><a href="living-at-aspen-creek">LIVING AT<br>ASPEN CREEK</a></h4>
                     </div>
                   </div>
               </div>
