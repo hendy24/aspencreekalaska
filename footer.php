@@ -46,7 +46,7 @@
                     </ul>
                   </div> -->
                   <div class="col-md-3">
-                    <h4><a href="blog">BLOG</a></h4>
+                    <h4><a href="news">News</a></h4>
                   </div>				  
                   <div class="col-md-2">
                     <h4><a href="faq">FAQ</a></h4>
