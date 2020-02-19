@@ -3,7 +3,7 @@
     <!-- hero section start here -->
     <section class="c_hero hero-section ">
           <div class="hero_slider">
-            <div class="c_slide_inner" style="background: url(images/hero-slider/slide-1.jpg); no-repeat right 0;"> 
+            <div class="c_slide_inner" style="background: url(images/hero-slider/slide-1.jpg) no-repeat right 0;"> 
               <div class="hero_slide_content d-flex align-items-center">
                 <div class="container">
                   <h1>Senior Living. Redefined.</h1>
@@ -14,6 +14,7 @@
             </div>
           </div>
     </section>
+
     <section class="section our-community med-sec has-text-centered">
         <div class="container">
           <div class="section-title">

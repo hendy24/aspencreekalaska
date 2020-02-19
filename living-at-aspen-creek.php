@@ -3,9 +3,22 @@
     <!-- hero section start here -->
     <section class="banner_title_parallax  ">
       <div class="container">
-        <div class="full-width guidedtour bg_experience align-items-center d-flex has-text-centered">
-          <h1 class="white_shadow">Legacies are shared.<br>Time is valued. <br><a class="btn btn-primary black-hero" href="resident-application">New Resident Application</a></h1> 
+        <div class="full-width guidedtour bg_experience">
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <blockquote class="text-center">
+                <h1 class="white_shadow">Legacies are shared.<br>Time is valued.</h1>
+            </blockquote>
+            <blockquote class="text-center">
+                <a class="btn btn-primary black-hero" href="resident-application">New Resident Application</a>
+            </blockquote>
+            
+            
         </div>
+
 		  
       </div>
     </section>
@@ -19,7 +32,7 @@
 		    		</div>
 		    	</div>
 		    	<div class="col-12 col-lg-10  m-auto ">
-		    		<div class="row align-items-center mt-100">
+		    		<div class="row mt-100">
 		    			<div class="col-12 col-lg-6 col-sm-12 order-2 order-lg-1">
 		    				<div class="cms_content_area pr-5 pt=0">
 		    					<h3>Fine Dining</h3>	
@@ -33,7 +46,7 @@
 		    		</div>
 
 
-		    		<div class="row align-items-center mt-100">
+		    		<div class="row mt-100">
 		    			<div class="col-12 col-lg-6">
 		    				<img src="images/AspenCreek-1.jpg" alt="AspenCreek-1" title="AspenCreek-1" class="img-fluid">
 		    			</div>

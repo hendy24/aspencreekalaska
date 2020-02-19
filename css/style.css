@@ -60,7 +60,7 @@ header .navbar-expand-lg .navbar-nav .active .nav-link , header .navbar-expand-l
 /*slider style start here*/
 
 .c_slide_inner  {
-	min-height: calc(100vh - 80px);
+	min-height: calc(100vh - 40px);
 	position: relative;
 }
 .hero_slider  .slick-prev, .hero_slider   .slick-next{
@@ -491,7 +491,7 @@ text-align: left;}
 	background: url(../images/headerImage_LAAC.jpg) no-repeat 0 0;
 }
 .cms_content_area h3{
-	font-size: 60px;
+	font-size: 48px;
 	font-family: 'Baskerville BT'; 
 	color: #000;
 	margin-top: 0;
@@ -503,7 +503,7 @@ text-align: left;}
 	margin-top: 0;	
 }
 .cms_content_area p{
-	font-size: 28px;
+	font-size: 22px;
 	font-weight: 300;
 }
 .mt-100{
@@ -534,3 +534,4 @@ text-align: left;}
 .mb-30{
 	margin-bottom: 30px;
 }
+

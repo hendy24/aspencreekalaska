@@ -15,7 +15,7 @@
           </div>
           <div class="footer_row2">
             <div class="row">
-              <div class="col-12 col-md-6 col-sm-6">
+              <div class="col-12 col-lg-3 col-md-6 col-sm-6">
                   <div class="d-flex">
                     <div class="address_area ">
                       <div class="d-flex">
@@ -31,12 +31,9 @@
                         <p>907.868.2688</p>
                       </div>
                     </div>
-                    <div class="live ml-auto text-center ml-xs-0">
-                      <h4><a href="living-at-aspen-creek">LIVING AT<br>ASPEN CREEK</a></h4>
-                    </div>
                   </div>
               </div>
-              <div class="col-12 col-md-6 col-sm-6">
+              <div class="col-12 col-lg-9 col-md-6 col-sm-6">
                 <div class="row text-center">
 <!--              <div class="col-md-4">
                     <h4><a href="about.html">ABOUT US</a></h4>
@@ -46,17 +43,17 @@
                     </ul>
                   </div> -->
                   <div class="col-md-3">
+                    <h4><a href="living-at-aspen-creek">LIVING AT<br>ASPEN CREEK</a></h4>
+                  </div>
+                  <div class="col-md-2">
                     <h4><a href="news">NEWS</a></h4>
                   </div>				  
                   <div class="col-md-2">
                     <h4><a href="faq">FAQ</a></h4>
                   </div>  
-                   <div class="col-md-2">
+                   <div class="col-md-3">
                     <h4><a href="contact">CONTACT US</a></h4>
                   </div>				  
-                  <div class="col-md-3">
-                    <h4><a href="resident-application">RESIDENT APPLICATION</a></h4>
-                  </div>
                   <div class="col-md-2">
                     <h4><a href="careers">CAREERS</a></h4>
                   </div>
