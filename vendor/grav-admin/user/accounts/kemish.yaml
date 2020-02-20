@@ -1,0 +1,11 @@
+state: enabled
+email: kemish@aspencreekalaska.com
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+fullname: 'Kemish W. Hendershot'
+title: COO
+hashed_password: $2y$10$Hl32fMpXN.YRXhSXx8t./uPp65j1p/zxTbWzJh.S2gMYqyjFe1b66
