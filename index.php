@@ -4,23 +4,21 @@
     <section class="c_hero hero-section ">
           <div class="hero_slider">
             <div class="c_slide_inner" style="background: url(images/hero-slider/slide-1.jpg) no-repeat right 0;"> 
-              <div class="hero_slide_content d-flex align-items-center">
+              <div class="hero_slide_content">
                 <div class="container">
                   <h1>Senior Living. Redefined.</h1>
                   <p>Aspen Creek is changing what Senior Living means for Alaskans. Assisted Living at Aspen Creek Senior Living is not only about compassionate care and healthy lifestyles, it is about community.</p>
-				  <a class="btn btn-primary black-hero" href="contact">Schedule a tour</a>
+				          <a class="btn btn-primary black-hero" href="contact">Schedule a tour</a>
                 </div>
               </div>
             </div>
           </div>
     </section>
 
-    <section class="section our-community med-sec has-text-centered">
+    <section class="our-community text-center">
         <div class="container">
-          <div class="section-title">
-            <h2>Our Community</h2>
-            <p class="has-slogan">Aspen Creek was designed to provide life-changing experiences for each of our Seniors, their families, and all who choose to be a part of the Community.</p>
-          </div>
+          <h2>Our Community</h2>
+          <p class="has-slogan">Aspen Creek was designed to provide life-changing experiences for each of our Seniors, their families, and all who choose to be a part of the Community.</p>
           <div class="call-to-action">
            <!-- <a href="https://gapanorams.com/tour/aspencreek/" target="_blank" class="d-flex align-items-center">  -->
 			<a href="https://gapanorams.com/tour/aspencreek/" class="d-flex align-items-center" data-lity>

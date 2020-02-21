@@ -79,7 +79,7 @@ header .navbar-expand-lg .navbar-nav .active .nav-link , header .navbar-expand-l
 .hero_slide_content {
 	width: 100%;
 	position:absolute;
-	top: 0;
+	top: 50px;
 	left: 0;
 	height: 100%;
 }
@@ -120,13 +120,24 @@ h1 {
 .has-text-centered{
 	text-align: center !important;
 }
-.section h2 , .section-title h3{
+.section h2 , .section-title h3 {
 	font-size: 60px;
 	color: #000;
 	margin-top: 40px;
 	font-family: 'Baskerville BT';
 	margin-bottom: 35px;
 }
+.our-community {
+	padding-top: 25px;
+}
+.our-community h2 {
+	font-size: 60px;
+	color: #000;
+	margin-top: 40px;
+	font-family: 'Baskerville BT';
+	margin-bottom: 35px;
+}
+
 .has-slogan {
 	font-size: 28px;
 	color: #000;

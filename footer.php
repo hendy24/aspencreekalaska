@@ -84,10 +84,7 @@
     <script src="dist/lity.js"></script>  
 
     <script type="text/javascript">
-    $('#date').datepicker({});
-    </script>
-
-
-    
+      $('#date').datepicker({});
+    </script> 
   </body>
 </html>

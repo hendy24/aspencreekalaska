@@ -2,7 +2,7 @@
  
     <section class="section form_area_guide med-sec">
         <div class="container">
-		<iframe src="https://core-repo.com/docs" width="100%" height ="900" style="border: 0"></iframe>
+		<?php include 'blog/user/pages/01.home'; ?>
         </div>
     </section>
 
