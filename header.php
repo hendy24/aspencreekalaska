@@ -53,10 +53,10 @@
 <!--                         <li class="nav-item">
                             <a class="nav-link" href="about.html">ABOUT US</a>
                         </li> -->
-                        <li class="nav-item">
+<!--                         <li class="nav-item">
                             <a class="nav-link" href="news">NEWS</a>
                         </li>  
-                        <li class="nav-item">
+ -->                        <li class="nav-item">
                             <a class="nav-link" href="faq">FAQ</a>
                         </li>
                     <li class="nav-item">

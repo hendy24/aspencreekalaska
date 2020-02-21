@@ -45,10 +45,10 @@
                   <div class="col-md-3">
                     <h4><a href="living-at-aspen-creek">LIVING AT<br>ASPEN CREEK</a></h4>
                   </div>
-                  <div class="col-md-2">
+<!--                   <div class="col-md-2">
                     <h4><a href="news">NEWS</a></h4>
                   </div>				  
-                  <div class="col-md-2">
+ -->                  <div class="col-md-2">
                     <h4><a href="faq">FAQ</a></h4>
                   </div>  
                    <div class="col-md-3">
