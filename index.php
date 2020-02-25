@@ -2,7 +2,7 @@
 
     <!-- hero section start here -->
     <section class="c_hero hero-section ">
-          <div class="hero_slider">
+          <div>
             <div class="c_slide_inner" style="background: url(images/hero-slider/slide-1.jpg) no-repeat right 0;"> 
               <div class="hero_slide_content">
                 <div class="container">

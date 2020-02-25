@@ -5,7 +5,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name= "description" content="Aspen Creek provides assisted living services in Anchorage, AK. Find the right place for your loved ones by visiting our state-of-the-art community! "/>
+	<meta name= "description" content="Aspen Creek provides senior assistance and elderly care in Alaska. Find the right place for your loved ones by visiting our state-of-the-art community! "/>
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-126621302-2"></script>
 	<script>
@@ -38,7 +38,7 @@
     <header>
         <div class="container">
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
-                <a class="navbar-brand" href="/"><img src="images/logo-black.png" alt="senior living Anchorage, AK /senior living center Anchorage, AK /assisted living Anchorage, AK /assisted living facility Anchorage, AK /assisted living center Alaska/senior care facility Anchorage, AK /senior care center Anchorage, Alaska"></a>
+                <a class="navbar-brand" href="/"><img src="images/aspencreek-logo.png" alt="Aspen Creek Black Logo senior living Anchorage, AK /assisted living Anchorage, AK /assisted living facility Anchorage, AK /senior care center Anchorage, Alaska elderly care Alaska/Elderly Care Center Alaska/elderly care Alaska/senior assistance Alaska"></a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>

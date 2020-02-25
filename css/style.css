@@ -128,12 +128,12 @@ h1 {
 	margin-bottom: 35px;
 }
 .our-community {
-	padding-top: 25px;
+	padding-top: 5px;
 }
 .our-community h2 {
 	font-size: 60px;
 	color: #000;
-	margin-top: 40px;
+	margin-top: 0px;
 	font-family: 'Baskerville BT';
 	margin-bottom: 35px;
 }
@@ -544,5 +544,11 @@ text-align: left;}
 }
 .mb-30{
 	margin-bottom: 30px;
+}
+
+.footer-background {
+	background-image: url(../images/aspencreek-symbol_grey.png);
+	background-repeat: no-repeat;
+	background-position: center;
 }
 

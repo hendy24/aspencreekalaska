@@ -1,9 +1,9 @@
     <footer>
-        <div class="container">
+        <div class="container footer-background">
           <div class="footer_row1">  
             <div class="d-flex">
               <div class="brand_footer">
-                <a href="index.html"> <img src="images/logo-white.png" alt="white-logo" ></a>
+                <a href="index.html"> <img src="images/aspencreek-logo_white.png" alt="Aspen Creek White Logo senior living Anchorage, AK /assisted living Anchorage, AK /assisted living facility Anchorage, AK /senior care center Anchorage, Alaska elderly care Alaska/Elderly Care Center Alaska/elderly care Alaska/senior assistance Alaska" ></a>
               </div>
               <div class="social-media">
                 <ul class="d-flex">
