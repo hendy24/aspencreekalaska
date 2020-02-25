@@ -3,7 +3,7 @@
           <div class="footer_row1">  
             <div class="d-flex">
               <div class="brand_footer">
-                <a href="index.html"> <img src="images/aspencreek-logo_white.png" alt="Aspen Creek White Logo senior living Anchorage, AK /assisted living Anchorage, AK /assisted living facility Anchorage, AK /senior care center Anchorage, Alaska elderly care Alaska/Elderly Care Center Alaska/elderly care Alaska/senior assistance Alaska" ></a>
+                <a href="/"> <img src="images/aspencreek-logo_white.png" alt="Aspen Creek White Logo senior living Anchorage, AK /assisted living Anchorage, AK /assisted living facility Anchorage, AK /senior care center Anchorage, Alaska elderly care Alaska/Elderly Care Center Alaska/elderly care Alaska/senior assistance Alaska" ></a>
               </div>
               <div class="social-media">
                 <ul class="d-flex">
@@ -61,8 +61,8 @@
               </div>
             </div>
           </div>
-          <div class="footer_row3">
-            <p>All Content &copy; 2020 <a href="https://www.springcreek.co/" target="new">Spring Creek Enterprise</a>. All Rights Reserved.</p>	<div class="micro"><p>senior living Anchorage, AK /senior living center Anchorage, AK /assisted living Anchorage, AK /assisted living facility Anchorage, AK /assisted living center Alaska/senior care facility anchorage Alaska/senior care center Anchorage, Alaska</p></div>			
+          <div class="footer_row3 text-center">
+            <p>All Content &copy; 2020 <a href="https://www.springcreek.co/" target="new">Spring Creek Enterprise</a>. All Rights Reserved.</p>
           </div>
         </div>
     </footer>

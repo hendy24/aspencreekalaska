@@ -110,7 +110,12 @@ h1 {
 	max-width: 100%;
 	text-align: center;
 	border-radius: 4px;
+	border: none;
 	background-color: #4b75df;
+}
+
+.black-hero.btn:hover {
+	background-color: #1437c7;
 }
 
 .section{
@@ -128,7 +133,7 @@ h1 {
 	margin-bottom: 35px;
 }
 .our-community {
-	padding-top: 5px;
+	padding-top: 50px;
 }
 .our-community h2 {
 	font-size: 60px;
@@ -282,10 +287,17 @@ footer {
 	padding: 40px 95px; 
 }
 .footer_row3 p {
-	color: #fff;
-	font-size: 14px;
+	color: #a8a8a8;
+	font-size: 12px;
 	margin-bottom: 0;
+}
+.footer_row3 a:link, a:visited {
+	color: #a8a8a8;
+}
 
+.footer_row3 a:hover {
+	text-decoration: none;
+	color: #ffffff;
 }
 
 
